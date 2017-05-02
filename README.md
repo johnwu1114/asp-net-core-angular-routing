@@ -1,7 +1,7 @@
 This repository is sample code for ASP.NET Core & Angular 4 (Angular 2) SPA.  
 Use the Visual Studio 2017 to development.  
 
-# ASP.NET Core + Angular 4 教學
+# ASP.NET Core + Angular 4 教學 - Multiple Modules
 
 介紹 Angular 4 的 Routing 在多個 Modules 的情況下，實現 Single Page Application(SPA)。  
 [ASP.NET Core + Angular 4 教學 - Multiple Modules](https://blog.johnwu.cc/article/asp-net-core-angular-4-教學-multiple-modules.html)
